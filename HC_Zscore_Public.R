@@ -1,11 +1,9 @@
 # Include libraries
 library(knitr)
-library(ggplot2)
 library(dplyr)
 library(plyr)
 library(gamlss)
 library(gamlss.foreach)
-library(ggsci)
 
 # Read the hc table
 hc.table <- read.csv("./Data/HC_Zscore_Public.csv")
