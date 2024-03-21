@@ -1,5 +1,5 @@
 # Retinal Layer Thicknesses Age-adjusted Z-score generation
-This repository contains HC data and minimally functional codes used to generate HC reference percentiles and z-score curves. It also includes code that users can follow to transform raw OCT measures of patients into corresponding Z-scores
+This repository contains health control (HC) data and codes used to generate HC reference percentiles and z-score curves. It also includes code that users can follow to transform raw OCT measures of patients into corresponding Z-scores. Please note that this repository does not include all the codes used for the analysis presented in the paper 'Individual Prognostication of Disease Activity and Disability Worsening in Multiple Sclerosis with Retinal Layer Thickness Z-scores' by Lin et al. (Translational Neuroimaging Group (DIAL), Charité Universitätsmedizin Berlin).
 
 # Installation
 The R script was written with R version 4.2.0 and RStudio Desktop version 2022.02.2+485, therefore R version 4.2.0 or higher and RStudio version 2022.02.2+485 or later is needed to successfully run this code.
