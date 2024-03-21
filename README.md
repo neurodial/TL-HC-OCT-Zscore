@@ -15,7 +15,7 @@ if(length(new.packages)>0) install.packages(new.packages)
 The version of the packages used during the development of this code is as follows: knitr v1.39, dplyr v2.1.1, plyr v1.8.7, gamlss v5.4-3, gamlss.foreach_ v1.1-3. Although, the installation of R and RStudio with the right versions should yield to the installation of the packages with the correct versions without specifying them. R, RStudio and the packages might need administrative privileges to be installed.
 
 ## Usage
-In order to run the code, please open HC_Zscore_Public.R in RStudio, and replace "./Data/Your_MS_Data.csv" with the directory of your patient data.
+In order to run the code, please open HC_Zscore_Public.R in RStudio, and replace './Data/Your_MS_Data.csv' with the directory of your patient data.
 
 ## Need Help?
 In case you needed help running this code or had related questions, please contact Dr. Ting-Yi Lin (ting-yi.lin[at]charite.de) or Dr. Friedemann Paul (friedemann.paul[at]charite.de). We would be delighted to help you and answer your questions!
