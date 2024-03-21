@@ -21,4 +21,4 @@ In order to run the code, please open HC_Zscore_Public.R in RStudio, and replace
 In case you needed help running this code or had related questions, please contact Dr. Ting-Yi Lin (ting-yi.lin[at]charite.de) or Dr. Friedemann Paul (friedemann.paul[at]charite.de). We would be delighted to help you and answer your questions!
 
 ## License
-Using the data and code provided in this repository without permission is prohibited. Please contact Dr. Ting-Yi Lin (ting-yi.lin[at]charite.de) for any inquires about the data and code.
+Using the data and code provided in this repository without permission is prohibited. Please contact Dr. Ting-Yi Lin (ting-yi.lin[at]charite.de) for any inquiries about the data and code.
